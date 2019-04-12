@@ -1,7 +1,7 @@
 {
   "builds": [
     {
-      "src": "dist/*.html",
+      "src": "dist/index.html",
       "use": "@now/static"
     }
   ]
