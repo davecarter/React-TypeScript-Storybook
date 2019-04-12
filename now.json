@@ -5,7 +5,7 @@
       "use": "@now/static"
     },
     {
-      "src": "dist/index.html",
+      "src": "./dist/index.html",
       "use": "@now/node"
     }
   ]
