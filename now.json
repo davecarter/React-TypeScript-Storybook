@@ -1,6 +1,6 @@
 {
   "builds": [
     { "src": "./dist/*.html", "use": "@now/static" },
-    { "src": "./dist/*.js", "use": "@now/node" }
+    { "src": "./dist/*.js", "use": "@now/static" }
   ]
 }
